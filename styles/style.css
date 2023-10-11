@@ -373,7 +373,7 @@
 .footer .content {
     display: flex;
     justify-content: space-between;
-    padding-bottom: 96px;
+    padding-bottom: 90px;
 }
 
 .footer__contacts {
