@@ -191,6 +191,7 @@
     justify-content: right;
     z-index: 2;
     align-items: center;
+    padding-bottom: 62px;
 }
 
 .cover__description-text {
